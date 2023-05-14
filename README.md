@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/mohamed_bakr_0" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed_bakr_0?logo=twitter&style=for-the-badge" alt="mohamed_bakr_0" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.mohmedbakr.online/](https://www.mohmedbakr.online/)
+- 👨‍💻 All my portfolio website [https://www.mohmedbakr.online/](https://www.mohmedbakr.online/)
 
 - 📫 How to reach me **m.abobakrrabia@gmail.com**
 
