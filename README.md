@@ -21,13 +21,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-bakr-rabia" alt="mohamed-bakr-rabia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mohamed_bakr_0" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mohamed_bakr_0?logo=twitter&style=for-the-badge" alt="https://twitter.com/mohamed_bakr_0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohamed_bakr_0" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed_bakr_0?logo=twitter&style=for-the-badge" alt="mohamed_bakr_0" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://www.mohmedbakr.online/](https://www.mohmedbakr.online/)
+
+- 📫 How to reach me **m.abobakrrabia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mohamed_bakr_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mohamed_bakr_0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-bakr-rabia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-bakr-rabia/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/mohamed.abobakr.rabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/mohamed.abobakr.rabia" height="30" width="40" /></a>
+<a href="https://twitter.com/mohamed_bakr_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_bakr_0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-bakr-rabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-bakr-rabia" height="30" width="40" /></a>
+<a href="https://fb.com/mohamed.abobakr.rabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.abobakr.rabia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
