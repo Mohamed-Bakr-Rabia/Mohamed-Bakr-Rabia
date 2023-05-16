@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -22,6 +21,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-bakr-rabia" alt="mohamed-bakr-rabia" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mohamed_bakr_0" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed_bakr_0?logo=twitter&style=for-the-badge" alt="mohamed_bakr_0" /></a> </p>
+
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 My portfolio website [https://www.mohmedbakr.online/](https://www.mohmedbakr.online/)
 
