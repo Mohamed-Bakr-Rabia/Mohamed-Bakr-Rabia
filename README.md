@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/mohamed_bakr_0" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed_bakr_0?logo=twitter&style=for-the-badge" alt="mohamed_bakr_0" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **C++ For Android Development**
 
 - 👨‍💻 My portfolio website [https://www.mohmedbakr.online/](https://www.mohmedbakr.online/)
 
