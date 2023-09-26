@@ -3,12 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbakr0&label=Profile%20views&color=0e75b6&style=flat" alt="mbakr0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbakr0" alt="mbakr0" /></a> </p>
+- How to reach me **m.abobakrrabia@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://www.mohmedbakr.online/](https://www.mohmedbakr.online/)
-
-- 📫 How to reach me **m.abobakrrabia@gmail.com**
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-bakr-rabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-bakr-rabia" height="30" width="40" /></a>
 </p>
