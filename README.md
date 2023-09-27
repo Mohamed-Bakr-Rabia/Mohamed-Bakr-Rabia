@@ -12,4 +12,7 @@ I'm a mobile developer, I develop native apps for Android and cross-platform wit
 * <a href="https://github.com/mbakr0/Journal">Journal</a> - News aggregator read the latest news from different sources
 * <a href="https://github.com/mbakr0/furniture_shopping">Furniture Shopping</a> - E-Commerce Flutter App
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbakr0&show_icons=true&theme=dark)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mbakr0&show_icons=true&locale=en&layout=compact" alt="Mohamed Bakr" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbakr0&show_icons=true&theme=dark)
+
