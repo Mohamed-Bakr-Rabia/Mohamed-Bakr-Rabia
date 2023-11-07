@@ -8,7 +8,9 @@ I'm a mobile developer, I develop native apps for Android and cross-platform wit
 <img src="https://img.shields.io/badge/kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=7f52ff"> <img src="https://img.shields.io/badge/java-000?style=for-the-badge"> <img src="https://img.shields.io/badge/Dart-168afd?style=for-the-badge&logo=dart&logoColor=61DAFB"> ...and many others
 
 
+
 ### My Recent Project Repos
+* <a href="https://github.com/mbakr0/advent-of-code">Advent of code</a> - This repository is for the advent of code<sup> <a href="https://en.wikipedia.org/wiki/Advent_of_Code" style="text-decoration: none;">see more</a></sup> solutions. that I keep updating. 
 * <a href="https://github.com/mbakr0/Journal">Journal</a> - News aggregator read the latest news from different sources
 * <a href="https://github.com/mbakr0/furniture_shopping">Furniture Shopping</a> - E-Commerce Flutter App
 
