@@ -10,9 +10,9 @@ I'm a mobile developer, I develop native apps for Android and cross-platform wit
 
 
 ### My Recent Project Repos
-* <a href="https://github.com/mbakr0/advent-of-code">Advent of code</a> - This repository is for the advent of code<sup> <a href="https://en.wikipedia.org/wiki/Advent_of_Code" style="text-decoration: none;">see more</a></sup> solutions. that I keep updating. 
 * <a href="https://github.com/mbakr0/Journal">Journal</a> - News aggregator read the latest news from different sources
 * <a href="https://github.com/mbakr0/furniture_shopping">Furniture Shopping</a> - E-Commerce Flutter App
+* <a href="https://github.com/mbakr0/advent-of-code">Advent of code</a> - advent of code solutions <sup> <a href="https://en.wikipedia.org/wiki/Advent_of_Code" style="text-decoration: none;">see more</a></sup>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mbakr0&show_icons=true&locale=en&layout=compact" alt="Mohamed Bakr" />
 
