@@ -15,6 +15,8 @@ I'm a mobile developer, I develop native apps for Android and cross-platform wit
 * <a href="https://github.com/mbakr0/advent-of-code">Advent of code</a> - advent of code solutions <sup> <a href="https://en.wikipedia.org/wiki/Advent_of_Code" style="text-decoration: none;">see more</a></sup>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mbakr0&show_icons=true&locale=en&layout=compact" alt="Mohamed Bakr" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbakr0&hide_progress=false)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbakr0&show_icons=true&theme=dark)
 
